@@ -9,9 +9,9 @@ layout: default
 
 ## The Team
 
-**Project Lead/s:** Dr. Erin Trochim
+**Project Lead:** Dr. Erin Trochim
 
-**Data Science Lead/s:** Dr. Nicholas Bolten
+**Data Science Lead:** Dr. Nicholas Bolten
 
 **DSSG Fellows:** 
 Vidisha Chowdhury
