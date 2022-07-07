@@ -11,8 +11,12 @@ layout: default
 
 **Project Lead/s:** Dr. Erin Trochim
 
-**Data Science Lead/s:** 
+**Data Science Lead/s:** Dr. Nicholas Bolten
 
 **DSSG Fellows:** 
+Vidisha Chowdhury
+Maddie Gaumer
+Philippe Schicker
+Shamsi Soltani
 
 # Abstract or executive summary
