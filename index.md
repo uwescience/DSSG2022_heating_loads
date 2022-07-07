@@ -5,11 +5,11 @@ layout: default
 <img src="{{ site.url }}{{ site.baseurl }}/assets/img/eScience.png">
 
 
-# Project Name
+# Alaska Heating Loads
 
 ## The Team
 
-**Project Lead/s:**
+**Project Lead/s:** Dr. Erin Trochim
 
 **Data Science Lead/s:** 
 
