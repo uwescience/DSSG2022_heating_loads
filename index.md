@@ -14,9 +14,9 @@ layout: default
 **Data Science Lead:** Dr. Nicholas Bolten
 
 **DSSG Fellows:** 
-Vidisha Chowdhury,
-Maddie Gaumer,
-Philippe Schicker,
-Shamsi Soltani
+**- Vidisha Chowdhury**
+**- Maddie Gaumer**
+**- Philippe Schicker**
+**- Shamsi Soltani**
 
 # Abstract or executive summary
