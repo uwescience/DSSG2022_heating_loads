@@ -2,6 +2,7 @@
 layout: page
 title: Motivation
 ---
+We are motivated :)
 
 **Questions**
 
