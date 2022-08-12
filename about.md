@@ -5,9 +5,9 @@ title: About
 
 ## Team Photo
 
-<img src="https://github.com/uwescience/DSSG2022_heating_loads/blob/4001a038d8fae367ff142140c3846a8d26f1d740/assets/img/group_candid.png" width="800" />
+<img src="https://github.com/uwescience/DSSG2022_heating_loads/blob/4001a038d8fae367ff142140c3846a8d26f1d740/assets/img/group_candid.png" width="800" >
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/img/group_candid.png">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/group_candid.png" width="700">
  
 ## Individual Bios
 
