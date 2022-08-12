@@ -6,6 +6,10 @@ title: About
 ## Team Photo
 ![Team candid photo](https://github.com/uwescience/DSSG2022_heating_loads/blob/3fb5a91c7c0c9b42e8f3b2940c246d5fc4fdfabc/group_candid.png)
 
+![]([https://github.com/uwescience/DSSG2022_heating_loads/blob/3fb5a91c7c0c9b42e8f3b2940c246d5fc4fdfabc/group_candid.png]) 
+
+<img src="myimage.png](https://github.com/uwescience/DSSG2022_heating_loads/blob/3fb5a91c7c0c9b42e8f3b2940c246d5fc4fdfabc/group_candid.png" width="800" />
+ 
 ## Individual Bios
 
 ### Vidisha Chowdhury
