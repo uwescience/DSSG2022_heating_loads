@@ -6,6 +6,7 @@ title: About
 ## Team Photo
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/img/group_candid.png" width="800">
+ Clockwise from top right: Philippe, Shamsi, Vidisha, Erin, Nick, Maddie
  
 ## Individual Bios
 
