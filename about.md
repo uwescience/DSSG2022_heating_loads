@@ -28,7 +28,9 @@ Philippe was particularly attracted to the DSSG fellowship for its emphasis to c
 ### Shamsi Soltani
 Shamsi is a public health professional and scholar pursuing a PhD in Epidemiology and Clinical Research at Stanford University. Her past work includes transportation injury surveillance and COVID emergency response at the county level, as well as clinical trials, program evaluation, and community based HIV prevention. Currently she’s exploring how to use big data methods with an equity focus, and is excited to experience production level coding in a team environment via DSSG. Shamsi holds an MPH in Epidemiology from Tulane University School of Public Health & Tropical Medicine, and a BS in Neuroscience with French minor from UCLA. She is a multicultural, multilingual first-gen American who likes to read copiously for pleasure, get outdoors, dance, bike and – occasionally, when the mood strikes – bake elaborate meringues.
 
+### Nick Bolton
 
+### Erin Trochim
 
 ## (Where readers can find more details about the project, e.g. code, data, reports, etc.)
 
