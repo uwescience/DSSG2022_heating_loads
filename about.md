@@ -32,7 +32,8 @@ My research focuses on the intersection between pedestrian mobility, data scienc
 ### Erin Trochim
 Erin is a geospatial data scientist with a strong interest in decision making focused on energy and northern applications. She received her interdisciplinary PhD from the University of Alaska Fairbanks with a focus on Remote Sensing & Hydrology. Her postdoc with the Alaska Climate Adaptation Science Center included work with the NSF SEARCH program to make permafrost information accessible for policy applications. Currently, her projects focus on energy needs in Alaska including the Arctic Energy Atlas (AEA), creating environmental data for marine and hydrokinetic applications and the Railbelt Decarbonization study. The DSSG heating loads project will provide key information for both the decarbonization and AEA work.
 
-## (Where readers can find more details about the project, e.g. code, data, reports, etc.)
+## Where can you find more?(Where readers can find more details about the project, e.g. code, data, reports, etc.)
+This project continues! Look out for our fellow abstracts and presentations at AGU's Fall 2022 Meeting and NeurIPS 2022. In addition, several fellows will work ongoingly with the project as part of their theses. Finally, you can check out our team's code on GitHub, linked in the sidebar.
 
 ## Acknowledgements
-
+Thank you to University of Alaska and National Renewable Energy Laboratory researchers who generously shared their time and input with us for stakeholder interviews. Thank you as well to the University of Washington's e-Science institute and Micron their support of this project.
