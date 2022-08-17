@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Method 2
+title: Data Sampling Method 2
 ---
 
 
