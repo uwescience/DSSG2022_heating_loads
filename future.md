@@ -11,7 +11,7 @@ This project continues! In 2022, look out for our fellow abstracts and presentat
 + Adding climate simulation models at different resolutions
 + Sensitivity exploration, e.g. effects of heating by building story
 + Hourly heating load estimates
-  + Widening scope to Alaska and beyond
++ Widening scope to Alaska and beyond
 
 ## Acknowledgments
 Thank you to University of Alaska and National Renewable Energy Laboratory researchers who generously shared their time and input with us for stakeholder interviews. Thank you as well to the University of Washington's e-Science institute and Micron for their support of this project.
