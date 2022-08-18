@@ -3,7 +3,7 @@ layout: page
 title: Meet the Team
 ---
 <img src="{{ site.url }}{{ site.baseurl }}/assets/img/group_candid.png" width="800">
- Clockwise from top left: [Philippe](###-Philippe-Schicker), [Shamsi](###-Shamsi-Soltani), [Vidisha](###-Vidisha-Chowdhury), [Erin](###Erin-Trochim), [Nick](###-Nick-Bolten), [Maddie](###-Maddie-Gaumer)
+ Clockwise from top left: [Philippe](###-philippe-schicker), [Shamsi](###-shamsi-soltani), [Vidisha](###-vidisha-chowdhury), [Erin](###erin-trochim), [Nick](###-nick-bolten), [Maddie](### maddie-gaumer)
 
 ### Vidisha Chowdhury
 Vidisha is passionate about using data-based insights to drive social impact and has a multidisciplinary approach to problem solving. She is pursuing her second master’s degree in Data Analytics, Public Policy and Management at Heinz College, Carnegie Mellon University. Her most recent work applies natural language processing to social media data to find effective ways of creating mental health awareness.
