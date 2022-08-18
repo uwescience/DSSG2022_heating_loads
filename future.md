@@ -7,7 +7,7 @@ title: Future Work & Acknowledgments
 This project continues! In 2022, look out for our fellow abstracts and presentations at UW's Learning and Doing Data for Good conference, AGU's Fall Meeting, and NeurIPS. In addition, several fellows will work ongoingly with the project as part of their theses. Finally, you can check out our team's code on GitHub, linked in the sidebar.
 
 ## Next Directions: 
-+ Incorporating public energy retrofit database into models
++ Incorporating public energy retrofit database (Alaska Retrofit Information System) into models
 + Adding climate simulation models at different resolutions
 + Sensitivity exploration, e.g. effects of heating by building story
 + Hourly heating load estimates
