@@ -5,7 +5,7 @@ title: Data
 
 **Data Sources**
 
-The datasets used for extracting building-level attributes and local climate variables consist of open access datasets available in the Google Earth Engine archive. The datasets used and the features extracted from them are listed below.
+The datasets used for extracting building-level attributes and local climate variables include open access datasets available in the Google Earth Engine archive. The datasets used and the features extracted from them are listed below.
 1. Building footprints/outlines
 	+ [OpenStreetMap](https://www.openstreetmap.org)
 3. Building Age
