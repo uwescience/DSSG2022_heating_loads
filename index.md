@@ -4,10 +4,6 @@ layout: default
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/img/eScience.png">
 # Alaska Heating Loads
-<img src="{{ site.url }}{{ site.baseurl }}/assets/img/polarbear_ap.jpg">
-_Image credit: Polar Bears International / BJ Kirschhoffer / AFP - Getty Images file_
-
-
 Alaska– and the wider Arctic region– have experienced accelerated effects of climate change over the past decade. Rapid decarbonization of energy is a critical step for mitigating climate change and ensuring sustainable development. Since about 70% of energy consumption in Alaska can be attributed to commercial and residential heating, successful decarbonization requires an assessment of present and future heating needs in the region.
 
 To date, comprehensive and accurate heating load estimates are lacking in Alaska. Modeling heating loads in Alaska is particularly complex for two distinct reasons: 
@@ -30,3 +26,6 @@ This project has strong potential for scalability across the wider Arctic, which
 - Maddie Gaumer
 - Philippe Schicker
 - [Shamsi Soltani](https://www.linkedin.com/in/shamsisoltani/)
+
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/polarbear_ap.jpg">
+_Image credit: Polar Bears International / BJ Kirschhoffer / AFP - Getty Images file_
