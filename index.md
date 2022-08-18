@@ -29,4 +29,4 @@ This project has strong potential for scalability across the wider Arctic, which
 - Vidisha Chowdhury
 - Maddie Gaumer
 - Philippe Schicker
-- Shamsi Soltani
+- [Shamsi Soltani](https://www.linkedin.com/in/shamsisoltani/)
