@@ -4,7 +4,7 @@ title: Future Work & Acknowledgments
 ---
 
 ## Where can you find more?
-This project continues! In 2022, look out for our fellow abstracts and presentations at UW's Learning and Doing Data for Good conference, AGU's Fall Meeting, and NeurIPS. In addition, several fellows will work ongoingly with the project as part of their theses. Finally, you can check out our team's code on GitHub, linked in the sidebar.
+This project continues! In 2022, look out for our fellow abstracts and presentations at UW's [Learning and Doing Data for Good](https://escience.washington.edu/data-for-good-conference-2022) conference, [AGU's Fall Meeting](https://www.agu.org/Fall-Meeting), and [NeurIPS](https://neurips.cc). In addition, several fellows will work ongoingly with the project as part of their theses. Finally, you can check out our team's code on GitHub, linked in the sidebar.
 
 ## Next Directions: 
 + Incorporating public energy retrofit database (Alaska Retrofit Information System) into models
