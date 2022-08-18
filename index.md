@@ -25,7 +25,7 @@ This project has strong potential for scalability across the wider Arctic, which
 **Data Science Lead:** Dr. Nicholas Bolten
 
 **DSSG Fellows:** 
-- Vidisha Chowdhury
-- Maddie Gaumer
-- [Philippe Schicker] (https://www.linkedin.com/in/philippe-schicker/)
+- [Vidisha Chowdhury](https://www.linkedin.com/in/vidisha-chowdhury/)
+- [Maddie Gaumer](https://www.linkedin.com/in/madelyn-gaumer-380898142/)
+- [Philippe Schicker](https://www.linkedin.com/in/philippe-schicker/)
 - [Shamsi Soltani](https://www.linkedin.com/in/shamsisoltani/)
