@@ -3,7 +3,7 @@ layout: default
 ---
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/img/eScience.png">
-<img src="{{ site.url }}{{ site.baseurl }}/assets/img/polarbear_ap_strip.jpg">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/polarbear_ap_strip.png">
 _Image credit: Polar Bears International / BJ Kirschhoffer / AFP - Getty Images file_
 
 # Heating Loads in Alaska — and Beyond
