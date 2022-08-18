@@ -3,7 +3,7 @@ layout: page
 title: Meet the Team
 ---
 <img src="{{ site.url }}{{ site.baseurl }}/assets/img/group_candid.png" width="800">
- Clockwise from top left: [Philippe](###-philippe-schicker), [Shamsi](###-shamsi-soltani), [Vidisha](###-vidisha-chowdhury), [Erin](###erin-trochim), [Nick](###-nick-bolten), [Maddie](### maddie-gaumer)
+ Clockwise from top left: [Philippe](###-philippe-schicker), [Shamsi](###-shamsi-soltani), [Vidisha](###-vidisha-chowdhury), [Erin](###erin-trochim), [Nick](###nick-bolten), [Maddie](###maddie-gaumer)
 
 ### Vidisha Chowdhury
 Vidisha is passionate about using data-based insights to drive social impact and has a multidisciplinary approach to problem solving. She is pursuing her second master’s degree in Data Analytics, Public Policy and Management at Heinz College, Carnegie Mellon University. Her most recent work applies natural language processing to social media data to find effective ways of creating mental health awareness.
@@ -24,5 +24,5 @@ Shamsi is a public health professional and scholar pursuing a PhD in Epidemiolog
 ### Nick Bolten
 My research focuses on the intersection between pedestrian mobility, data science, and computer science. I work on defining, collecting, producing user-facing tools for, and analyzing pedestrian network data – data that is otherwise rarely collected but exposes serious inequities and accessibility concerns in our public spaces. My PhD work focused on two projects, OpenSidewalks and AccessMap. OpenSidewalks is a project for openly defining, creating, and analyzing pedestrian network data, particularly in OpenStreetMap. AccessMap is a user-facing information retrieval tool, an interactive map that adapts to an individual’s preferences when navigating the built environment: if a person requires curb ramps, it will avoid raised curbs and if a person cannot go up steep hills, it will avoid them, while still providing a realistic path from a start point to an end point. My current research extends on these projects to include a larger number of cities, promote integration between municipalities and OpenSidewalks datasets, and understand pedestrian accessibility on city and regional scales. Both AccessMap and OpenSidewalks have participated in DSSG projects (on the project side!) that pushed them to the next level and I’m excited to be on the other side of the equation: supporting DSSG work as a data scientist.
 
-###Erin Trochim
+### Erin Trochim
 Erin is a geospatial data scientist with a strong interest in decision making focused on energy and northern applications. She received her interdisciplinary PhD from the University of Alaska Fairbanks with a focus on Remote Sensing & Hydrology. Her postdoc with the Alaska Climate Adaptation Science Center included work with the NSF SEARCH program to make permafrost information accessible for policy applications. Currently, her projects focus on energy needs in Alaska including the Arctic Energy Atlas (AEA), creating environmental data for marine and hydrokinetic applications and the Railbelt Decarbonization study. The DSSG heating loads project will provide key information for both the decarbonization and AEA work.
