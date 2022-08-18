@@ -1,7 +1,9 @@
 ---
 layout: page
-title: Motivation
+title: Context
 ---
+This page is called motivation.md
+
 We are motivated :)
 
 **Questions**
