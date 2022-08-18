@@ -22,7 +22,7 @@ This project has strong potential for scalability across the wider Arctic, which
 
 **Project Lead:** Dr. Erin Trochim
 
-**Data Science Lead:** Dr. Nicholas Bolten
+**Data Science Lead:** [Dr. Nicholas Bolten](https://escience.washington.edu/people/nicholas-bolten)
 
 **DSSG Fellows:** 
 - [Vidisha Chowdhury](https://www.linkedin.com/in/vidisha-chowdhury/)
