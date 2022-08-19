@@ -2,6 +2,7 @@
 layout: page
 title: Project Pipeline
 ---
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/pipeline.png" width="800">
 ## Data Sources
 
 The datasets used for extracting building-level attributes and local climate variables include open access datasets available in the Google Earth Engine archive. The datasets used and the features extracted from them are listed below.
