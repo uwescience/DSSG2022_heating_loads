@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Data
+title: Project Pipeline
 ---
-
-**Data Sources**
+#Data Sources
 
 The datasets used for extracting building-level attributes and local climate variables include open access datasets available in the Google Earth Engine archive. The datasets used and the features extracted from them are listed below.
 1. Building footprints/outlines
@@ -18,6 +17,11 @@ The datasets used for extracting building-level attributes and local climate var
 	+ [ERA5-Land Hourly](https://developers.google.com/earth-engine/datasets/catalog/ECMWF_ERA5_LAND_HOURLY)
 
 What did you do to prepare the data?
+
+#Machine Learning / Modeling
+
+#Data Challenges
+
 
 **Tools (aka “component specification”)**
 
