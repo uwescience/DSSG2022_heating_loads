@@ -22,6 +22,9 @@ The sources used to extract building-level attributes and local climate variable
 
 What did you do to prepare the data?
 
+
+Regressions used to estimate heating loads in Anchorage and Fairbanks were sourced from the [2014 Alaska Housing Assessment](https://www.ahfc.us/pros/energy/alaska-housing-assessment/housing-assessment).
+
 ## Machine Learning / Modeling
 <img src="{{ site.url }}{{ site.baseurl }}/assets/img/ak_anch_fair.png" width="350">
 <!--  note you can make text wrap by adding img align="right" between img and src-->
