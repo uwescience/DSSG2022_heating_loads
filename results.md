@@ -4,10 +4,10 @@ title: Results
 ---
 
 ## Feature Importance
-<img src="{{ site.url }}{{ site.baseurl }}/assets/img/feat.png" width="500">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/feat.png" width="700">
 
 ## Data Sampling
-<img src="{{ site.url }}{{ site.baseurl }}/assets/img/ds_res.png" width="700">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/ds_res.png" width="500">
 
 ## Takeaways
 + We produce the first Alaskan heating load estimates that capture variation in local climate
