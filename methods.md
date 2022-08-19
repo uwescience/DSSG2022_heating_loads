@@ -9,7 +9,7 @@ The datasets used for extracting building-level attributes and local climate var
 1. Building footprints/outlines
 	+ [OpenStreetMap](https://www.openstreetmap.org)
 3. Building Age
-	+ [World Settlement Footprint & Evolution](https://samapriya.github.io/awesome-gee-community-datasets/projects/wsf/)
+	+ [World Settlement Footprint Evolution (1985-2015) & World Settlement Footprint 2019](https://samapriya.github.io/awesome-gee-community-datasets/projects/wsf/)
 	+ [DynamicWorldV1](https://developers.google.com/earth-engine/datasets/catalog/GOOGLE_DYNAMICWORLD_V1)
 4. Building Height
 	+ [Forest And Buildings removed Copernicus 30m DEM](https://samapriya.github.io/awesome-gee-community-datasets/projects/fabdem/)
