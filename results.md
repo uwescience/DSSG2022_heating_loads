@@ -12,7 +12,10 @@ We also see that heating degree days averaged over 1981-2010 and 1991-2000 are r
 While these results are a part of a proof-of-concept exercise, they do have the potential to inform decarbonization policies like energy retrofitting in Alaska. For instance, the importance of the age variable as a predictor may answer if it is better to replace old buildings rather than retrofitting them to save energy.
 
 ## Data Sampling
+Data sampling is balancing supervised learning data across selected factors to avoid biasing estimates towards particular types of data. For example, our project identifies 108,776 buildings on the Alaskan Railbelt, with 31% (n= 33,990) of them outside Anchorage or Fairbanks— therefore lacking heating load estimates. However, among the buildings with heating load estimates which can be used for training our models, the large majority are in Anchorage. Therefore we explored whether balancing our data on location (i.e. Fairbanks vs. Anchorage) made a difference in the mean squared error estimate for our models. We additionally balanced on our most salient feature: building age.
 <img src="{{ site.url }}{{ site.baseurl }}/assets/img/ds_res.png" width="700">
+
+Balancing location made a difference with the decision tree and random forest models relative to the unbalanced models. Balancing age improved upon the unbalanced models for every model type.
 
 ## Takeaways
 + We produce the first Alaskan heating load estimates that capture variation in local climate
