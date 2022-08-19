@@ -18,8 +18,9 @@ In contrast, our top-down, large-scale approach allows us to estimate the heatin
 
 **Experts**
 
-Who are the important stakeholders and what has your team done to take them into consideration?
-What are the use cases you’re building for?
+An in-depth understanding of the current state of Alaska heating needs is required and helpful to put this project into context. Therefore, the team conducted various meetings and interviews with subject-matter experts. The meetings included individual interviews with researchers from the National Renewable Energy Laboratory (NREL), scientists, and Alaska-based heating experts. Additionally, the team met with a group of experts whose research focuses on heating needs in Alaska.
+
+These meetings allowed the team to gain a better understanding of the technical aspects associated with heating needs in Alaska as well as potential social, interpersonal, and ethical implications of this work.
 
 **Ethical Implications**
 
