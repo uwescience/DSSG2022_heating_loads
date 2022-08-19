@@ -20,7 +20,7 @@ This project has strong potential for scalability across the wider Arctic, which
 
 # The Team
 
-**Project Lead:** Dr. Erin Trochim
+**Project Lead:** [Dr. Erin Trochim](http://www.linkedin.com/in/erin-trochim)
 
 **Data Science Lead:** [Dr. Nicholas Bolten](https://escience.washington.edu/people/nicholas-bolten)
 
