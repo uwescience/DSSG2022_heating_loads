@@ -5,20 +5,20 @@ title: Project Pipeline
 <img src="{{ site.url }}{{ site.baseurl }}/assets/img/pipeline.png" width="800">
 ## Data Sources
 
-The datasets used for extracting building-level attributes and local climate variables include open access datasets available in the Google Earth Engine archive. The datasets used and the features extracted from them are listed below.
-1. Building footprints/outlines
+The sources used to extract building-level attributes and local climate variables were open access and available in the Google Earth Engine archive. Features developed and their source datasets are:
++ Building footprint area
 	+ [OpenStreetMap](https://www.openstreetmap.org)
-3. Building Age
++ Building age
 	+ [World Settlement Footprint Evolution (1985-2015) & World Settlement Footprint 2019](https://samapriya.github.io/awesome-gee-community-datasets/projects/wsf/)
-	+ [DynamicWorldV1](https://developers.google.com/earth-engine/datasets/catalog/GOOGLE_DYNAMICWORLD_V1)
-4. Building Height
-	+ [Forest And Buildings removed Copernicus 30m DEM](https://samapriya.github.io/awesome-gee-community-datasets/projects/fabdem/)
-	+ [Copernicus Digital  Elevation Model (GLO-30 DEM)](https://samapriya.github.io/awesome-gee-community-datasets/projects/glo30/)
-5. Degree days 
+	+ [Dynamic World](https://developers.google.com/earth-engine/datasets/catalog/GOOGLE_DYNAMICWORLD_V1)
++ Building height
+	+ [Forest and buildings removed Copernicus 30m Digital Elevation Model (FABDEM)](https://samapriya.github.io/awesome-gee-community-datasets/projects/fabdem/)
+	+ [Copernicus Digital Elevation Model (GLO-30 DEM)](https://samapriya.github.io/awesome-gee-community-datasets/projects/glo30/)
++ Heating and cooling degree days (derived from average daily land temperature)
 	+ [ERA5-Land Hourly](https://developers.google.com/earth-engine/datasets/catalog/ECMWF_ERA5_LAND_HOURLY)
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/img/copernicus_sat.png" width="350">
-<sub>_Photo credit: European Space Agency; Data for this project come from satellites like this one._</sub>
+<sub>_Photo credit: European Space Agency; Data for this project come from satellites like Copernicus._</sub>
 
 What did you do to prepare the data?
 
