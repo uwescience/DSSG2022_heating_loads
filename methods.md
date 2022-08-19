@@ -17,13 +17,14 @@ The datasets used for extracting building-level attributes and local climate var
 5. Degree days 
 	+ [ERA5-Land Hourly](https://developers.google.com/earth-engine/datasets/catalog/ECMWF_ERA5_LAND_HOURLY)
 
-<src="{{ site.url }}{{ site.baseurl }}/assets/img/copernicus_sat.png" width="350">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/copernicus_sat.png" width="350">
 <sub>_Photo credit: European Space Agency; Climate data for this project come from satellites like this one._</sub>
+
 What did you do to prepare the data?
 
 ## Machine Learning / Modeling
-<src="{{ site.url }}{{ site.baseurl }}/assets/img/ak_anch_fair" width="350">
-<!--  note you can make text wrap by adding img align="right" before src-->
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/ak_anch_fair" width="350">
+<!--  note you can make text wrap by adding img align="right" before img src-->
 
 ## Data Challenges
 
