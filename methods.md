@@ -27,6 +27,8 @@ What did you do to prepare the data?
 <!--  note you can make text wrap by adding img align="right" before img src-->
 
 ## Data Challenges
++ Sparse or inaccurate data in the Arctic
++ Google earth engine big data exports
 
 
 **Tools (aka “component specification”)**
