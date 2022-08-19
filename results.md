@@ -5,9 +5,9 @@ title: Results
 ## Model Fit
 With data on building features, climate, and simulated data on heating loads in Anchorage and Fairbanks, we estimate a model that can predict heating loads at the building level across the rest of Alaska's Railbelt.
 
-We explored a range of models including ordinary least squares linear regression, ridge regressions with and without polynomial features, decision trees and random forests. We evaluated these models using their mean squared error (MSE) on the test data. Model MSEs are listed below: errors decrease from top to bottom, with the Random Forest Regression performing the best.
+We explored a range of models including ordinary least squares linear regression, ridge regressions with and without polynomial features, decision trees, and random forests. We evaluated these models using their mean squared error (MSE) on the test data. Model MSEs are listed below: errors decrease from top to bottom, with the Random Forest Regression performing the best.
 <img src="{{ site.url }}{{ site.baseurl }}/assets/img/mse.png" width="700">
-We are yet to explore a wide range of models, but will have the opportunity to do so as we gain access to a more comprehensive heating loads database from the [Alaska Housing Finance Corporation](https://www.ahfc.us/), due to make their data public this year.
+We are yet to explore a wide range of models, but will have the opportunity to do so as we gain access to a more comprehensive heating loads database from the [Alaska Housing Finance Corporation](https://www.ahfc.us/), due to be made public this year.
 
 ## Feature Importance
 
