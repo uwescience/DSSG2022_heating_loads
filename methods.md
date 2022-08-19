@@ -20,6 +20,10 @@ The sources used to extract building-level attributes and local climate variable
 <img src="{{ site.url }}{{ site.baseurl }}/assets/img/copernicus_sat.png" width="350">
 <sub>_Photo credit: European Space Agency; Data for this project come from satellites like this one._</sub>
 
+### Optimizing Data Exports
+
+
+
 What did you do to prepare the data?
 
 
