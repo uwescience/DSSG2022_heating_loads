@@ -9,6 +9,8 @@ Global warming presents the most pressing challenge of our generation. Compared 
 
 Our research initially focuses on Alaska’s electrical Railbelt region which is comprised of the service areas of six regulated public utilities that extend from Fairbanks to Anchorage and the Kenai Peninsula. Since residential and commercial heating makes up a large part of global warming contributions, understanding the current state of energy needs is vital in reducing heating demands.
 
+<img align="right" src="{{ site.url }}{{ site.baseurl }}/assets/img/AK_railbelt.png" width="300">
+
 This project aims to drastically improve the ways heating loads are estimated in Alaska. The state of Alaska has unique needs and challenges compared to the rest of the U.S. such as less centralized energy, a culture of independence, and overall colder temperatures. The lack of centralized energy information is a key reason for this project in the first place, and filling this data gap, to better understand the current state of energy and heating needs in Alaska, is a key goal of this project.
 
 We do so by taking a geospatially informed approach. This means we use large-scale satellite data to get information with high granularity. Heating load calculations for buildings are estimated in British thermal units (BTUs) per year and BTU per year per square foot. In order to calculate heating loads using a geospatial approach, local climate conditions and building features such as heights, base areas, and age are used. 
