@@ -3,17 +3,13 @@ layout: page
 title: Results
 ---
 
-**Findings**
+## Feature Importance
+<src="{{ site.url }}{{ site.baseurl }}/assets/img/feat.png" width="500">
 
-What were the outcomes of your analyses?
-What is your interpretation of those findings?
+## Data Sampling
+<src="{{ site.url }}{{ site.baseurl }}/assets/img/ds_res.png" width="700">
 
-**Deliverables**
-
-What artifacts or outputs did you produce?
-How will these deliverables be used? 
-
-**Outcomes**
-
-How have your stakeholders responded to your deliverables? 
-What impact has your project had, or do you anticipate it having? 
+## Takeaways
++ We produce the first Alaska heating load estimates that capture variation in local climate
++ These models allow prediction of future heating needs according to climate projections
++ This work can immediately inform renewable energy and climate mitigation policies in Alaska
