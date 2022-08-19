@@ -11,8 +11,10 @@ What need are you filling?
 
 **Goal**
 
-Why is this important?
-What work has previously been done?
+We aim to develop a model that predicts heating loads for residential and commercial buildings in Alaska. Our work is in contrast to current scholarship & research for the Alaska region. 
+
+Current work only focuses on time-intensive, micro-level approaches. Researchers take measurements, install meters, and wait for month for results from individual building since this approach has been the only one yielding results.
+In contrast, our top-down, large-scale approach allows us to estimate the heating needs for large parts of Alaska at once. 
 
 **Experts**
 
