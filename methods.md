@@ -23,7 +23,7 @@ The datasets used for extracting building-level attributes and local climate var
 What did you do to prepare the data?
 
 ## Machine Learning / Modeling
-<img src="{{ site.url }}{{ site.baseurl }}/assets/img/ak_anch_fair" width="350">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/ak_anch_fair.png" width="350">
 <!--  note you can make text wrap by adding img align="right" before img src-->
 
 ## Data Challenges
