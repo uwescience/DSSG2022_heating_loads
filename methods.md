@@ -42,4 +42,4 @@ We are yet to explore a wide range of models, but will have the opportunity to d
 
 ## Data Challenges
 + Sparse or inaccurate data in the Arctic
-+ Google earth engine big data exports
++ Google Earth Engine big data exports
