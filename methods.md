@@ -43,24 +43,3 @@ We are yet to explore a wide range of models, but will have the opportunity to d
 ## Data Challenges
 + Sparse or inaccurate data in the Arctic
 + Google earth engine big data exports
-
-
-**Tools (aka “component specification”)**
-
-What software packages, modules, etc. did you use? 
-What are the dependencies between these and how did you render them interoperable?
-
-**Processes**
-
-What does your workflow or pipeline look like? 
-What steps did you follow? 
-
-**Analyses**
-
-What approaches did you try that didn’t work?
-What analyses did you end up sticking with?
-
-**Limitations**
-
-What are the shortcomings of your approach?
-How can your work be improved?
