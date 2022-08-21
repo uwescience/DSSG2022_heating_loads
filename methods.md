@@ -2,6 +2,8 @@
 layout: page
 title: Project Pipeline
 ---
+Our workflow involves using Google Earth Engine’s public data archive to extract tabulated building-level features and then train machine learning models (using Python's Scikit Learn library) to predict heating loads.
+
 <img src="{{ site.url }}{{ site.baseurl }}/assets/img/pipeline.png" width="800">
 ## Data Sources
 
