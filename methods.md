@@ -5,6 +5,16 @@ title: Project Pipeline
 Our workflow involves using Google Earth Engine’s public data archive to extract tabulated building-level features and then train machine learning models (using Python's Scikit Learn library) to predict heating loads.
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/img/pipeline.png" width="800">
+
+This section describes the following components of our data pipeline.
+1. <a href="#DataSources">Data Sources</a>
+2. <a href="#OptimizingDataExports">Optimizing Data Exports</a>
+3. <a href="#FeatureExtraction">Feature Extraction</a>
+4. <a href="#ModelEstimation">Model Estimation</a>
+
+
+
+
 ## Data Sources
 
 The sources used to extract building-level attributes and local climate variables were open access and available in the Google Earth Engine archive. Features developed and their source datasets are:
