@@ -12,7 +12,7 @@ This section describes the following components of our data pipeline.
 3. <a href="#FeatureExtraction">Feature Extraction</a>
 4. <a href="#ModelEstimation">Model Estimation</a>
 
-## <a href="#DataSources">Data Sources</a>
+## <a id="#DataSources">Data Sources</a>
 
 The sources used to extract building-level attributes and local climate variables were open access and available in the Google Earth Engine archive. Features developed and their source datasets are:
 + Building footprint area
