@@ -2,19 +2,19 @@
 layout: page
 title: Project Pipeline
 ---
-Our workflow involves using Google Earth Engine’s public data archive to extract tabulated building-level features and then train machine learning models (using Python's Scikit Learn library) to predict heating loads.
+Our workflow involves using Google Earth Engine’s public data archive to extract tabulated building-level features and then train machine learning models to predict heating loads.
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/img/pipeline.png" width="800">
 
 This section describes the following components of our data pipeline.
-1. [Data Sources](#datasources)
-2. [Optimizing Data Exports](## Optimizing Data Exports)
-3. <a href="#FeatureExtraction">Feature Extraction</a>
-5. <a href="#ModelEstimation">Model Estimation</a>
+1. [Data Sources](#data-sources)
+2. [Feature Extraction](#feature-extraction)
+3. [Optimizing Data Exports](#optimizing-data-exports)
+4. [Model Estimation](#model-estimation)
 
 ## Data Sources
 
-The sources used to extract building-level attributes and local climate variables were open access and available in the Google Earth Engine archive. Features developed and their source datasets are:
+The sources used to extract building-level attributes and local climate variables were open access and available in Google Earth Engine's archive. Features developed and their source datasets are:
 + Building footprint area
 	+ [OpenStreetMap](https://www.openstreetmap.org)
 + Building age
@@ -23,11 +23,28 @@ The sources used to extract building-level attributes and local climate variable
 + Building height
 	+ [Forest and buildings removed Copernicus 30m Digital Elevation Model (FABDEM)](https://samapriya.github.io/awesome-gee-community-datasets/projects/fabdem/)
 	+ [Copernicus Digital Elevation Model (GLO-30 DEM)](https://samapriya.github.io/awesome-gee-community-datasets/projects/glo30/)
-+ Heating and cooling degree days (derived from average daily land temperature)
++ Heating and cooling degree days 
 	+ [ERA5-Land Hourly](https://developers.google.com/earth-engine/datasets/catalog/ECMWF_ERA5_LAND_HOURLY)
++ Building zip codes 
+ 	+ [TIGER: US Census Roads](https://developers.google.com/earth-engine/datasets/catalog/TIGER_2016_Roads)
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/img/copernicus_sat.png" width="350">
 <sub>_Photo credit: European Space Agency; Data for this project come from satellites like this one._</sub>
+
+## Feature Extraction
+
++ Building footprint area
+	+ [OpenStreetMap](https://www.openstreetmap.org)
++ Building age
+	+ [World Settlement Footprint Evolution (1985-2015) & World Settlement Footprint 2019](https://samapriya.github.io/awesome-gee-community-datasets/projects/wsf/)
+	+ [Dynamic World](https://developers.google.com/earth-engine/datasets/catalog/GOOGLE_DYNAMICWORLD_V1)
++ Building height
+	+ [Forest and buildings removed Copernicus 30m Digital Elevation Model (FABDEM)](https://samapriya.github.io/awesome-gee-community-datasets/projects/fabdem/)
+	+ [Copernicus Digital Elevation Model (GLO-30 DEM)](https://samapriya.github.io/awesome-gee-community-datasets/projects/glo30/)
++ Heating and cooling degree days 
+	+ [ERA5-Land Hourly](https://developers.google.com/earth-engine/datasets/catalog/ECMWF_ERA5_LAND_HOURLY)
++ Building zip codes 
+ 	+ [TIGER: US Census Roads](https://developers.google.com/earth-engine/datasets/catalog/TIGER_2016_Roads)
 
 ## Optimizing Data Exports
 
@@ -36,7 +53,9 @@ What did you do to prepare the data?
 
 Regressions used to estimate heating loads in Anchorage and Fairbanks were sourced from the [2014 Alaska Housing Assessment](https://www.ahfc.us/pros/energy/alaska-housing-assessment/housing-assessment).
 
-## Machine Learning / Modeling
+
+
+## Model Estimation
 <img src="{{ site.url }}{{ site.baseurl }}/assets/img/ak_anch_fair.png" width="350">
 <!--  note you can make text wrap by adding img align="right" between img and src-->
 
