@@ -7,12 +7,12 @@ Our workflow involves using Google Earth Engine’s public data archive to extra
 <img src="{{ site.url }}{{ site.baseurl }}/assets/img/pipeline.png" width="800">
 
 This section describes the following components of our data pipeline.
-1. [Data Sources](#DataSources)
-2. <a href="#OptimizingDataExports">Optimizing Data Exports</a>
+1. [Data Sources](#datasources)
+2. [Optimizing Data Exports](## Optimizing Data Exports)
 3. <a href="#FeatureExtraction">Feature Extraction</a>
-4. <a href="#ModelEstimation">Model Estimation</a>
+5. <a href="#ModelEstimation">Model Estimation</a>
 
-## <a id="#DataSources">Data Sources</a>
+## Data Sources
 
 The sources used to extract building-level attributes and local climate variables were open access and available in the Google Earth Engine archive. Features developed and their source datasets are:
 + Building footprint area
@@ -29,7 +29,7 @@ The sources used to extract building-level attributes and local climate variable
 <img src="{{ site.url }}{{ site.baseurl }}/assets/img/copernicus_sat.png" width="350">
 <sub>_Photo credit: European Space Agency; Data for this project come from satellites like this one._</sub>
 
-## <a id="#OptimizingDataExports">Optimizing Data Exports</a>
+## Optimizing Data Exports
 
 What did you do to prepare the data?
 
