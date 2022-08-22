@@ -38,7 +38,7 @@ The extraction of building features from geospatial data was one of the biggest 
 
 ## Optimizing Data Exports
 
-Each buildiing had to matched to its area's zip code and then building information was exported in batches of zip code groups. 
+Each buildiing had to be matched to its area's zip code and then building information was exported in batches of zip code groups. 
 
 ## Model Estimation
 <img src="{{ site.url }}{{ site.baseurl }}/assets/img/ak_anch_fair.png" width="350">
