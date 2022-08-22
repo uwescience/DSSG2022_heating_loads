@@ -33,27 +33,12 @@ The sources used to extract building-level attributes and local climate variable
 
 ## Feature Extraction
 
-+ Building footprint area
-	+ [OpenStreetMap](https://www.openstreetmap.org)
-+ Building age
-	+ [World Settlement Footprint Evolution (1985-2015) & World Settlement Footprint 2019](https://samapriya.github.io/awesome-gee-community-datasets/projects/wsf/)
-	+ [Dynamic World](https://developers.google.com/earth-engine/datasets/catalog/GOOGLE_DYNAMICWORLD_V1)
-+ Building height
-	+ [Forest and buildings removed Copernicus 30m Digital Elevation Model (FABDEM)](https://samapriya.github.io/awesome-gee-community-datasets/projects/fabdem/)
-	+ [Copernicus Digital Elevation Model (GLO-30 DEM)](https://samapriya.github.io/awesome-gee-community-datasets/projects/glo30/)
-+ Heating and cooling degree days 
-	+ [ERA5-Land Hourly](https://developers.google.com/earth-engine/datasets/catalog/ECMWF_ERA5_LAND_HOURLY)
-+ Building zip codes 
- 	+ [TIGER: US Census Roads](https://developers.google.com/earth-engine/datasets/catalog/TIGER_2016_Roads)
+The extraction of building features from geospatial data was one of the biggest and most challenging aspects of our project. For this, we used Google Earth Engine which is a cloud computing platform that allows one to access and analyse geospatial big data. The public datasets we used from Google Earth Engine’s archive consisted of satellite images captured across time as well as geometries of building outlines in Alaska. We had to aggregate these data both temporally and spatially to arrive at building level features and then export these as tabular data for analysis.
+
 
 ## Optimizing Data Exports
 
-What did you do to prepare the data?
-
-
-Regressions used to estimate heating loads in Anchorage and Fairbanks were sourced from the [2014 Alaska Housing Assessment](https://www.ahfc.us/pros/energy/alaska-housing-assessment/housing-assessment).
-
-
+Each buildiing had to matched to its area's zip code and then building information was exported in batches of zip code groups. 
 
 ## Model Estimation
 <img src="{{ site.url }}{{ site.baseurl }}/assets/img/ak_anch_fair.png" width="350">
@@ -66,6 +51,3 @@ We explored a range of models including ordinary least squares linear regression
 <img src="{{ site.url }}{{ site.baseurl }}/assets/img/mse.png" width="700">
 We are yet to explore a wide range of models, but will have the opportunity to do so as we gain access to a more comprehensive heating loads database from the [Alaska Housing Finance Corporation](https://www.ahfc.us/), due to be made public this year.
 
-## Data Challenges
-+ Sparse or inaccurate data in the Arctic
-+ Google Earth Engine big data exports
