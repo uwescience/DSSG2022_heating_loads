@@ -3,7 +3,7 @@ layout: page
 title: Results
 ---
 ## Feature Importance
-Looking more deeply at the random forest model that fit our data the best, we explored which features are actually important in predicting heating loads. In the graph below, the y axis shows various features which were included in the model, and the x-axis shows their relative importance on a logarithmic scale. Feature importance can be described as a score assigned to features based on how significant they are at predicting a target variable.
+Looking more deeply at the random forest model that fit our data the best, we explored which features are actually important in predicting heating loads. In the graph below, the y-axis shows various features which were included in the model, and the x-axis shows their relative importance on a logarithmic scale. Feature importance can be described as a score assigned to features based on how significant they are at predicting a target variable.
 <img src="{{ site.url }}{{ site.baseurl }}/assets/img/feat.png" width="700">
 Age stands out as the strongest predictor. This can be expected, since older buildings might be less energy efficient and more prone to air leakage. However, this may also be due to the output used for model training, as it was interpolated from regressions of heating loads on age.
 
