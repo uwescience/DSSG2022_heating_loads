@@ -27,7 +27,9 @@ The sources used to extract building-level attributes and local climate variable
 	+ [ERA5-Land Hourly](https://developers.google.com/earth-engine/datasets/catalog/ECMWF_ERA5_LAND_HOURLY)
 + Building zip codes
  	+ [TIGER: US Census Roads](https://developers.google.com/earth-engine/datasets/catalog/TIGER_2016_Roads)
-
++ Heating and cooling degree days 
+	+ [ERA5-Land Hourly](https://developers.google.com/earth-engine/datasets/catalog/ECMWF_ERA5_LAND_HOURLY)
+	
 <img src="{{ site.url }}{{ site.baseurl }}/assets/img/copernicus_sat.png" width="350">
 <sub>_Photo credit: European Space Agency; Data for this project come from satellites like this one._</sub>
 
