@@ -23,7 +23,7 @@ Current work focuses on time-intensive, micro-level approaches: researchers take
 
 ### Experts
 
-An in-depth understanding of the current state of Alaska heating needs is helpful to put this project into context. Understanding current scholarship on heating needs in Alaska was critical to orient this project. Our team conducted meetings and interviews with subject-matter experts. These included individual interviews with researchers from the National Renewable Energy Laboratory, scientists, and Alaska-based heating experts. Additionally, the team met with a group of experts whose researchfocuses on heating needs in Alaska.
+Understanding current scholarship on heating needs in Alaska was critical to orient this project. Our team conducted meetings and interviews with subject-matter experts. These included individual interviews with researchers from the National Renewable Energy Laboratory, scientists, and Alaska-based heating experts. Additionally, the team met with a group of experts whose researchfocuses on heating needs in Alaska.
 
 Engaging subject experts gave the team a better understanding of the technical aspects associated with heating needs in Alaska, as well as potential social, interpersonal, and ethical implications of this work. 
 
