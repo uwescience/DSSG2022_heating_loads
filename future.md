@@ -4,7 +4,7 @@ title: Future Work & Acknowledgments
 ---
 
 ## Where can you find more?
-This project continues! In 2022, look out for our fellow abstracts and presentations at UW's [Learning and Doing Data for Good](https://escience.washington.edu/data-for-good-conference-2022) conference, [AGU's Fall Meeting](https://www.agu.org/Fall-Meeting), and [NeurIPS](https://neurips.cc). In addition, several fellows will work ongoingly with the project as part of their theses. Finally, you can check out the recording of our team's culminating presentation [here](https://www.youtube.com/watch?v=wrN_2gUAIeo&list=PLA6PlfxWZPLRpUxdZK6UI5AFIkC_WIrm9&index=27) and our code on GitHub, linked in the sidebar.
+This project continues! In 2022, look out for our fellow abstracts and presentations at UW's [Learning and Doing Data for Good](https://escience.washington.edu/data-for-good-conference-2022) conference, [AGU's Fall Meeting](https://www.agu.org/Fall-Meeting), and [NeurIPS](https://neurips.cc). In addition, several fellows will work ongoingly with the project as part of their theses. Finally, you can view the recording of our team's culminating presentation [here](https://www.youtube.com/watch?v=wrN_2gUAIeo&list=PLA6PlfxWZPLRpUxdZK6UI5AFIkC_WIrm9&index=27) and check out our code on GitHub, linked in the sidebar.
 
 ## Next Directions
 <img align="right" src="{{ site.url }}{{ site.baseurl }}/assets/img/future.png" width="200">
